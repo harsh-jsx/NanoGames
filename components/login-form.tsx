@@ -73,7 +73,7 @@ export default function LoginForm() {
               src="https://static.nanogames.io/assets/login_coco.1855b11e.png"
               alt="Casino illustration with panda"
               width={300}
-              height={180}
+              height={50}
               className="absolute m-0 p-0 bottom-0 right-0"
               priority
             />
